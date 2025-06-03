@@ -43,7 +43,7 @@ The project is developed and maintained by
 Find more on:
 
 - YouTube: <a href="https://www.youtube.com/@RIickDev" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" width="12" /> @RIickDev Channel</a>  
-- Instagram: <a href="https://www.instagram.com/__henrique.rodrigues__/" target="_blank"><img src="https://scontent-gru2-1.xx.fbcdn.net/v/t39.8562-6/452615141_1867050850474850_3818297208510997530_n.png?_nc_cat=107&ccb=1-7&_nc_sid=f537c7&_nc_ohc=Phz-6gajUdoQ7kNvwE2SUin&_nc_oc=Adn5002k-41JzhK6NCoxvlFaxGaFBGcDak35LlST_mxY_bcZWVt1kJOHG1Q7iwPqGcsTHFZB2Bt2H8N2n6DylC4i&_nc_zt=14&_nc_ht=scontent-gru2-1.xx&_nc_gid=smw93aB2cCyoTf8Y2K_7tQ&oh=00_AfJE-O_rkOdB93PwYvbgQqRbKICniLc0PbrWmxyZUStj4w&oe=6820ECFB" width="12" /> @__henrique.rodrigues__</a>  
+- Instagram: <a href="https://www.instagram.com/__henrique.rodrigues__/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" width="12" /> @__henrique.rodrigues__</a>  
 
 **IMPORTANT:** Feel free to study or use this project, but always give proper credit to the original author, as it has been developed over several years.
 
